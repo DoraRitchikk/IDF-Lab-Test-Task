@@ -1,0 +1,59 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.tar.gz
+*.bz2
+*.tgz
+*.zip
+
+# Virtual environments
+venv/
+env/
+env-*/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and text editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency directories
+bin/
+lib/
+include/
+lib64/
+share/
+*.egg-info/
+
+# Miscellaneous
+*.log
+*.cache
+*.bak
+*.sqlite3
+*.sqlite
+__pypackages__/
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+celerybeat-schedule
+celerybeat-schedule.db
+*.db
+*.db-shm
+*.db-wal
+*.pyre/
