@@ -4,8 +4,8 @@ import mysql.connector
 
 def main():
     host = "localhost"
-    user = "root"
-    password = "8885Mi7890"
+    user = ""
+    password = ""
     database = "sales"
 
     #Connection to MySQL db
